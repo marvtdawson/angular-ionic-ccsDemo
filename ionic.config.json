@@ -1,0 +1,8 @@
+{
+  "name": "angular-ionic-ccsDemo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "57bc84d2"
+}
